@@ -1,10 +1,10 @@
 /*
-
-Queries used for Tableau Project
-
+Link for Tableau Public Account: https://public.tableau.com/app/profile/shivani.m4186/viz/CovidDashboard_17259464947160/Dashboard1
 */
 
-
+/*
+Queries used for Tableau Project
+*/
 
 -- 1. 
 
